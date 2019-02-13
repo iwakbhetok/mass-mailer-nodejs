@@ -1,0 +1,17 @@
+{
+  "name": "mass-mailer-nodejs",
+  "version": "1.0.0",
+  "description": "Mass Mailer Sender",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "mongoose": "^4.0.1",
+    "nodemailer": "latest",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "author": "ago1011",
+  "license": "MIT"
+}
